@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme">
+    </style>
+    <style name="MaterialTheme">
+    </style>
+    <style name="TextAppearance.Compat.Notification">
+    </style>
+    <style name="TextAppearance.Compat.Notification.Info">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Info.Media">
+    </style>
+    <style name="TextAppearance.Compat.Notification.Line2">
+    </style>
+    <style name="TextAppearance.Compat.Notification.Line2.Media">
+    </style>
+    <style name="TextAppearance.Compat.Notification.Media">
+    </style>
+    <style name="TextAppearance.Compat.Notification.Time">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Time.Media">
+    </style>
+    <style name="TextAppearance.Compat.Notification.Title">
+    </style>
+    <style name="TextAppearance.Compat.Notification.Title.Media">
+    </style>
+    <style name="Theme.Base">
+    </style>
+    <style name="Theme.Sample">
+    </style>
+    <style name="Widget">
+    </style>
+    <style name="Widget.Compat.NotificationActionContainer">
+    </style>
+    <style name="Widget.Compat.NotificationActionText">
+    </style>
+    <style name="Widget.SampleMessage">
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+    <style name="Widget.SampleMessageTile">
+        <item name="android:background">@drawable/tile</item>
+        <item name="android:shadowColor">#7f000000</item>
+        <item name="android:shadowDy">-3.5</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+</resources>
